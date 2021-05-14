@@ -1,2 +1,3 @@
 # Data-Management-and-Database-Design
-This repository contains all assignments and project work done for this course.
+
+This repository contains the E-commerce Database System  project work done for this course.
